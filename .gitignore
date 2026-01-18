@@ -416,3 +416,6 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+NTPClient.sln
+NTPClient.vcxitems.filters
+NTPClient.vcxitems
